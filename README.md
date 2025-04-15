@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi my name is Keegan Gallagher
+
+I am a Freshman at Loyola University Chicago studying for my Cybersecurity BS
 
 <!--
 **keegangallagher/keegangallagher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
